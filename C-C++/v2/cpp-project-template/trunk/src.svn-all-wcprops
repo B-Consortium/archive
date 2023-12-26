@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/20/trunk/src
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/20/trunk/src/CMakeLists.txt
+END
+app.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/trunk/src/app.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/src/main.cpp
+END
+appinfo.h.in.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/appinfo.h.in.cmake
+END
+app.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/5/trunk/src/app.h
+END
